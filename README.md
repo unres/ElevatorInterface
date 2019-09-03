@@ -1,8 +1,9 @@
-# ElevatorInterface
-
-This assignment is redesigning elevator interface.
+# Elevator Interface
 
 **Real Life Example**
+
 ![](WorkingElevator.gif)
-![](Opener.HEIC)
-![](PanelPhoto.HEIC)
+
+**Issue with Design**
+
+- Elevator Call Button did not indicate when it was pressed
