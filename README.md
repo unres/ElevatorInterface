@@ -18,4 +18,10 @@
 - This confusing image makes a user confused on functionality of that specific button
 - Without an audio que, a user does not know if button was properly selected. Especially if the user is blind
 
+**Common/Rare Use Cases**
+
+- Fast way to travel between floors in a building
+- Allows for users in a wheelchair to travel up floors in a building
+-
+
 **Common Sequence of Actions**
