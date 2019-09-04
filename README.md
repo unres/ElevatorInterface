@@ -28,7 +28,7 @@
 - Select floor option by pressing a button
 - Arrive at floor and leave elevator
 
-**Feeback tp User with Current Design**
+**Feeback to User with Current Design**
 
 -
 
