@@ -22,6 +22,11 @@
 
 - Fast way to travel between floors in a building
 - Allows for users in a wheelchair to travel up floors in a building
--
+- Moving large loads/furniture up and down a building
 
 **Common Sequence of Actions**
+
+- Press outside button to call the elevator
+- Walk into the elevator
+- Select floor option by pressing a button
+- Arrive at floor and leave elevator
