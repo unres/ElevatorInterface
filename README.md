@@ -30,11 +30,13 @@
 
 **Feeback to User with Current Design**
 
--
+- The grouping of the buttons and the black backround makes it easy to see which label goes with what button
+- The brail next to the button allows blind users to read what each button is for
+- The screen allows person to understand what floor they are currently at
 
 **Common Errors Made with Design**
 
--
+- Get on the elevator traveling the wrong direction due to a lack of display on elevator traveling direction
 
 **Redesign**
 
@@ -42,11 +44,20 @@
 
 **Touch Screen Design**
 
-- Screen Size:
+- Screen Size: 12.1 x 20.2
 - Link:
 
 **Supports Disabilities**
 
+- My design supports wheelchair access people. The buttons below the screen allow for people who cant reach the screen to be able to still easily navigate the elevator's control panel
+
 **Extra Info on Display**
 
+- The companies name of where he elevator is located
+- The current floor of the elveator
+- An easy maintance button and screen
+- An info screen with directions
+
 **Extra Unique Features (Imagination)**
+
+- Voice commands (not implemented in the demo)
