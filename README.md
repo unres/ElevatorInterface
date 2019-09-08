@@ -38,7 +38,7 @@
 
 **Redesign**
 
-![]()
+![](IMG_8775.jpg)
 
 **Touch Screen Design**
 
