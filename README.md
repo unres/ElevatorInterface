@@ -45,7 +45,7 @@
 **Touch Screen Design**
 
 - Screen Size: 12.1 x 20.2
-- Link:
+- Link: https://xd.adobe.com/view/b496f54a-1251-4e52-6b76-6faffe756ed4-c2a7/
 
 **Supports Disabilities**
 
