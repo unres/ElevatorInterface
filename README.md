@@ -28,9 +28,9 @@
 - Select floor option by pressing a button
 - Arrive at floor and leave elevator
 
-**Feeback to User with Current Design**
+**Feedback to User with Current Design**
 
-- The grouping of the buttons and the black backround makes it easy to see which label goes with what button
+- The grouping of the buttons and the black background makes it easy to see which label goes with what button
 - The brail next to the button allows blind users to read what each button is for
 - The screen allows person to understand what floor they are currently at
 
@@ -47,17 +47,37 @@
 - Screen Size: 12.1 x 20.2
 - Link: https://xd.adobe.com/view/b496f54a-1251-4e52-6b76-6faffe756ed4-c2a7/
 
+**Demonstration Instructions**
+
+- Open the link and sign in to Adobe XD
+- Zoom out to see most of the screen
+- Click the Touch Panel
+- Click the Alarm button to hear alarm (Bottom Left)
+- Click the ! for the maintenance and setting outside
+  - Takes you a window to select Settings or maintenance that takes you to a code pad
+- Click the back arrow and the back button to return to Panel Screen
+- Click on Floor 6 and observe animations
+- Click on Floor 3
+- Back at main panel screen, click to up facing arrow
+- Then click the bottom arrow to finish the Demonstration
+
 **Supports Disabilities**
 
 - My design supports wheelchair access people. The buttons below the screen allow for people who cant reach the screen to be able to still easily navigate the elevator's control panel
 
+- The button design are large to help users that have trouble reading small text
+
 **Extra Info on Display**
 
 - The companies name of where he elevator is located
-- The current floor of the elveator
-- An easy maintance button and screen
+- The current floor of the elevator
+- An easy maintenance button and screen that is password protected
 - An info screen with directions
 
 **Extra Unique Features (Imagination)**
 
-- Voice commands (not implemented in the demo)
+- Voice commands
+
+**Not demoed fully**
+
+- A voice that says which floor is selected, Could not double up the animations but in live development it would say "Floor X selected"
