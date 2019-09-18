@@ -54,7 +54,7 @@
 - Click the Touch Panel
 - Click the Alarm button to hear alarm (Bottom Left)
 - Click the ! for the maintenance and setting outside
-  - Takes you a window to select Settings or maintenance that takes you to a code pad
+  - Takes you to a window to select Settings or maintenance that takes you to a code pad
 - Click the back arrow and the back button to return to Panel Screen
 - Click on Floor 6 and observe animations
 - Click on Floor 3
@@ -81,3 +81,5 @@
 **Not demoed fully**
 
 - A voice that says which floor is selected, Could not double up the animations but in live development it would say "Floor X selected"
+
+- Voice Commands: you can demo it on the panel page by holding space in the panel page and saying "Elevator go to floor 2". Does not work 100% of the time at this time
