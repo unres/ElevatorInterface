@@ -12,8 +12,8 @@
 
 **Explanation of Issues**
 
-- This confusing image makes a user confused on functionality of that specific button
-- Without an audio cue, a user does not know if button was properly selected. Especially if the user is blind
+- This confusing image makes a user confused on the functionality of that specific button
+- Without an audio cue, a user does not know if the button was properly selected. Especially if the user is blind
 
 **Common/Rare Use Cases**
 
@@ -58,8 +58,8 @@
 - Click the back arrow and the back button to return to Panel Screen
 - Click on Floor 6 and observe animations
 - Click on Floor 3
-- Back at main panel screen, click to up facing arrow
-- Then click the bottom arrow to finish the Demonstration
+- Back at main panel screen, click the up facing arrow
+- Then click the bottom facing arrow to finish the Demonstration
 
 **Supports Disabilities**
 
@@ -69,10 +69,11 @@
 
 **Extra Info on Display**
 
-- The companies name of where he elevator is located
+- The companies name of where the elevator is located
 - The current floor of the elevator
 - An easy maintenance button and screen that is password protected
-- An info screen with directions
+- Floor options with room to name floors and ease of use
+- Alarm button to sound an alarm
 
 **Extra Unique Features (Imagination)**
 
